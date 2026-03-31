@@ -1,5 +1,4 @@
 # CS846 Week 13 – Microblog Platform
-
 ## Overview
 
 This project implements a **microblogging web application (Twitter-like)** as part of **CS 846: LLMs for Software Engineering (Winter 2026)**.
